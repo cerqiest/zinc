@@ -1,5 +1,5 @@
 NAME="zinc"
-DESCRIPTION="A fast and easy scripting languages developed by znci, for znci"
+DESCRIPTION="A fast and easy scripting language developed by znci, for znci"
 PRIVATE=0
 VERSION="v1.0.0"
 
