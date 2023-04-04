@@ -1,6 +1,7 @@
 NAME="zinc"
 DESCRIPTION="A fast and easy scripting languages developed by znci, for znci"
 PRIVATE=0
+VERSION=1.0.0
 
 PROJECT_LEAD="unium"
 CONTRIBUTORS=["unium"]
